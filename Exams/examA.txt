@@ -1,0 +1,51 @@
+10
+TF 5
+Tigers like ketchup.
+False
+MC 10
+What type of animal is Tigger?
+3
+Tiger
+Tigger
+Moose
+B
+MC 10
+Who was the President of the USA in 1991?
+6
+Richard Nixon
+Gerald Ford
+Jimmy Carter
+Ronald Reagan
+George Bush Sr.
+Bill Clinton
+E
+TF 5
+My name is Yvonne.
+False
+TF 12
+Dark chocolate is better than white chocolate.
+True
+MC 10
+Which is a type of Oreo?
+3
+Peanut Butter
+Dill
+Hot & Spicy
+A
+TF 6
+Polka dots are classy.
+True
+TF 3
+Cheddar cheese was revered by the Aztecs.
+True
+MC 10
+What is the most effective baseball pitch?
+4
+Curveball 
+Fastball
+Hexagonball
+Changeup
+C
+TF 5
+I need a kleenex.
+True

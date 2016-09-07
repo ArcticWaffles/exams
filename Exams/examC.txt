@@ -1,0 +1,22 @@
+3
+TF 2.55
+Weedwhackers are whimsical.
+False
+MC 10.5
+What type of fruit is an apple?
+3
+Apple
+Banana
+Cherry
+A
+MC 10
+What is Houdini's favorite animal?
+5
+Hamster
+Zebra
+Ant
+Cat
+Mongoose
+E
+
+

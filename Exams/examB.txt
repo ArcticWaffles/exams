@@ -1,0 +1,25 @@
+4
+TF 5
+Tigers like ketchup.
+False
+MC 10
+What type of animal is Tigger?
+3
+Tiger
+Tigger
+Moose
+B
+MC 10
+Who was the President of the USA in 1991?
+6
+Richard Nixon
+Gerald Ford
+Jimmy Carter
+Ronald Reagan
+George Bush Sr.
+Bill Clinton
+E
+TF 5
+My name is Yvonne.
+False
+
